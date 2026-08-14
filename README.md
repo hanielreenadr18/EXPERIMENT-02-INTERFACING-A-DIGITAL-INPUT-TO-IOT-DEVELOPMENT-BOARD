@@ -1,4 +1,4 @@
-# EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+# EXPERIMENT 02 INTERFACING A DIGITAL INPUT OUTPUT TO IOT DEVELOPMENT BOARD
 
 
 **DATE: 14.08.2026**
@@ -216,9 +216,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 
+
+### OBJECT DETECTED
 <img width="608" height="303" alt="image" src="https://github.com/user-attachments/assets/f10ecf6f-6573-45e6-8610-a81c6a5c0eb0" />
 
-
+### OBJECT NOT DETECTED
 <img width="608" height="303" alt="image" src="https://github.com/user-attachments/assets/166b58c5-65e0-4af1-9996-4aaaba9c6d6b" />
 
 
